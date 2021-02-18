@@ -7,4 +7,5 @@ The following is a representation of what the model looks like, for a function t
 ![3D Model](https://user-images.githubusercontent.com/31941027/108304719-9bdd8e00-7176-11eb-9a70-b12b001830fa.PNG)
 
 Here is another graphical presentation of a more realistic cost function:
-![3D Model](https://user-images.githubusercontent.com/31941027/108305813-d811ee00-7178-11eb-9f90-eb1a1ced35c1.PNG)
+![Realistic](https://user-images.githubusercontent.com/31941027/108305895-01cb1500-7179-11eb-9577-425eb9b13a4b.PNG)
+
