@@ -9,3 +9,4 @@ The following is a representation of what the model looks like, for a function t
 Here is another graphical presentation of a more realistic cost function:
 ![Realistic](https://user-images.githubusercontent.com/31941027/108305895-01cb1500-7179-11eb-9577-425eb9b13a4b.PNG)
 
+Inspired by the Udemy Data Science and Machine Learning course. 
