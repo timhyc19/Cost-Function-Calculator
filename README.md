@@ -1,5 +1,5 @@
 # Cost-Function-Calculator
-The following program uses **Python**, **matplotlib**, **numpy**, **sympy**, and **sklearn** to graph different cost/objective functions, and find their global minimum.
+The following program uses **Python**, **matplotlib**, **numpy**, **sympy**, and **sci-kit** to graph different cost/objective functions, and find their global minimum.
 
 The method used is called the **_Batch Gradient Descent_**, which is an optimization algorithm that works by efficiently searching the parameter space, intercept, and rate of change for **linear regression**. On each iteration, these parameters are updated based on the direction of the steepest ascent. The size of the steps on each iteration is based on the learning rate, which is what makes this algorithm the base of machine learning (ML) and deep learning. 
 
