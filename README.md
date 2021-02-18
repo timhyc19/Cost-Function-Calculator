@@ -3,7 +3,7 @@ The following program uses **Python**, **matplotlib**, **numpy**, **sympy**, and
 
 The method used is called the **_Batch Gradient Descent_**, which is an optimization algorithm that works by efficiently searching the parameter space, intercept, and rate of change for **linear regression**. On each iteration, these parameters are updated based on the direction of the steepest ascent. The size of the steps on each iteration is based on the learning rate, which is what makes this algorithm the base of machine learning (ML) and deep learning. 
 
-Through this project, I learned how to create functional data stored in 1D and 2D arrays, and display them using multiple python libraries. Additionally, I started to comprehend the basic concepts of ML. 
+Through this project, I learned how to create functional data, store it in 1D and 2D arrays / variables, and display them using multiple python libraries. Additionally, I started to comprehend the basic concepts of ML. 
 
 The following is a representation of what the model looks like, for a function that takes in 2 paramters *x*, and *y* (hence, a 3D function).
 ![3D Model](https://user-images.githubusercontent.com/31941027/108304719-9bdd8e00-7176-11eb-9a70-b12b001830fa.PNG)
